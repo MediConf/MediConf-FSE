@@ -64,7 +64,7 @@ Once this step succeeds, mutation_iteration.py may be executed. Prior to mutatio
    ```
 2. Perform mutation-based refinement:
    ```bash
-   python iteration.mutation_iteration.py hdfs
+   python mutation_iteration.py hdfs
    ```
 
 
